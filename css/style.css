@@ -1,0 +1,227 @@
+.myrows{
+  border: 3px solid green;
+  padding: 5px;
+}
+.mycols{
+  border: 3px solid red;
+}
+.mycontainer{
+  background-color: aqua;
+}
+#topHeader{
+  border-bottom: 1px solid #ebebeb;
+}
+#topHeader a{
+  color: #2c3e50;
+  font-weight: 600;
+  font-size: 0.89rem;
+}
+.container-fluid{
+  padding-left: 0;
+  padding-right: 0;
+}
+nav ul li a {
+	font-size: 1.1rem;
+	font-weight: 600;
+}
+
+/* START : Footer */
+.full-footer{
+  background-color: #243c4f;
+  
+}
+.top-footer p{
+  color: white;
+}
+.top-footer a{
+  color: white;
+  font-weight: 600;
+}
+.top-footer h3{
+  color: white;
+}
+.bottom-footer{
+  background-color: #031b2e;
+}
+.bottom-footer p{
+  color: white;
+}
+
+/* END : Footer */
+
+/* Start : Home page first hero section */
+.top-hero-section{
+background-color: #3498db;
+color: white;
+}
+.top-hero-section a{
+  color: white;
+  font-weight: 600;
+}
+.qualities-img{
+  width:200px;
+}
+/* END : Home page first hero section */
+
+/* START : Home page 3rd requirement section */
+.requirements-section{
+  background-color: #004d80;
+  color: white;
+}
+/* END : Home page 3rd requirement section */
+
+
+/* START : Home page 4rd newsletter section */
+.home-newsletter{
+  background-color: #004d80;
+  color: white;
+}
+.home-newsletter .form-control {
+	height: 50px;
+	border-color: transparent;
+	border-radius: 20px 0 0 20px;
+}
+.home-newsletter .btn {
+	min-height: 50px;
+	border-radius: 0 20px 20px 0;
+	background: #be0280;
+	color: #fff;
+}
+
+/* END : Home page 4rd newsletter section */
+
+
+.clients-section{
+  background-color: #f0f0f0;
+}
+
+/* END-------------------- of home page ---------------------- */
+
+/* START-------------------- of About page ---------------------- */
+.breadcrumbs-section{
+  background-color: #e9ecef;
+}
+/* END-------------------- of About page ---------------------- */
+
+/* START-------------------- of Contact Us Page ---------------------- */
+.address p{
+  font-weight: 600;
+
+}
+
+.bar{
+  color: white;
+  font-weight: 600;
+  font-size: 1.1rem;
+  border-radius: 17px;
+  border: 1px solid rgb(63, 71, 80);
+}
+.reduce{
+height=50px;
+
+
+}
+.morecolor{
+  background-color:#000d3e;
+  height:15rem;
+}
+#white{
+  color:white;
+}
+.fullcolor{
+  background-color:rgb(84, 99, 159);
+}
+.raise{
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+.raise2{
+  font-weight: 600;
+  font-size: 2rem;
+}
+.bordercolor{
+  color: white;
+  background-color:#000d3e;
+  font-weight: 600;
+  font-size: 1.1rem;
+  border: 2px solid white;
+}
+.bordercolor1{
+  color: black;
+  background-color:white;
+  font-weight: 600;
+  font-size: 1.1rem;
+  border: 2px solid white;
+}
+.img-fluid{
+  max-width:400px;
+  height:500px;
+}
+.clients{
+  width:40%;
+  border-radius:100px;
+}
+.clients1{
+  width:65%;
+  
+  border-radius:100px;
+}
+.morepadd{
+  padding-left:50px;
+}
+.vl {
+  border-left: 6px solid grey;
+  height: 350px;
+}
+.imageproper{
+  width:50%;
+}
+.videoradius{
+  border-radius:30px;
+  height:300px;
+}
+.vl1{
+  border-left: 10px solid white;
+  height: 100px;
+  border-top-left-radius:10px;
+  border-bottom-left-radius:10px;
+}
+.heading-underline1{
+  width:3rem;
+  height:.2rem;
+  background-color:orange;
+  margin: 0 auto 2rem;
+}
+.heading-underline2{
+  width:3rem;
+  height:.2rem;
+  background-color:yellow;
+  margin: 0 auto 2rem;
+}
+.heading-underline3{
+  width:3rem;
+  height:.2rem;
+  background-color:#4c5a90;
+  margin: 0 auto 2rem;
+}
+.heading-underline4{
+  width:12rem;
+  height:.5rem;
+  background-color:#4c5a90;
+  margin: 0 auto 2rem;
+}
+.heading-underline5{
+  width:12rem;
+  height:.2rem;
+  background-color:red;
+  margin: 0 auto 2rem;
+}
+.heading-underline6{
+  width:12rem;
+  height:.5rem;
+  background-color:gold;
+  margin: 0 auto 2rem;
+}
+.gradio{
+  background-image: linear-gradient( to right, #000d3e,#4c5a90);
+}
